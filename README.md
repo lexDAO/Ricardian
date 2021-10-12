@@ -17,7 +17,7 @@ The following Gnosis Multi-sig operated by LexDAO engineers governs the Ricardia
 ### [OpenLaw web3 form](https://lib.openlaw.io/web/default/template/Ricardian%20LLC) 📜
 > Execute call to form Ricardian LLC with OpenLaw docs sent to email. *Optional:* Deploy 👹 DAO on Daohaus Club with presets (2 day voting, 1 day grace period, no proposal deposits) and store Ricardian LLC NFT in vault.
 
-### [Chat](https://gitter.im/RicardianLLC/community) 💻
+### [Chat](https://discord.com/invite/M4jxXmk) 💻
 
 ## Gallery 🖼️
 The Ricardian NFT collection can be checked on sites like [OpenSea](https://opensea.io/collection/ricardian-llc-series-v2). Be on lookout for "seasons." 
